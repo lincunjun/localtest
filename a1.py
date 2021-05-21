@@ -3,5 +3,5 @@ var x=2
 var x+=4
 print("x")
 print("my god")
-print("hello world")
-i can't believe it
+print("hello change")
+change
